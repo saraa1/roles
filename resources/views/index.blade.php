@@ -536,7 +536,43 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img width="200px" src="{{asset('img/a.jpg')}}" class="img-fluid" alt="">
+                            <img width="200px" src="{{asset('img/shireen.jpeg')}}" class="img-fluid" alt="">
+{{--                            <div class="social">--}}
+{{--                                <a href=""><i class="icofont-twitter"></i></a>--}}
+{{--                                <a href=""><i class="icofont-facebook"></i></a>--}}
+{{--                                <a href=""><i class="icofont-instagram"></i></a>--}}
+{{--                                <a href=""><i class="icofont-linkedin"></i></a>--}}
+{{--                            </div>--}}
+                        </div>
+                        <div class="member-info">
+                            <h4>2016-CS-156</h4>
+                            <span>Shireen Gull</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member">
+                        <div class="member-img">
+                            <img width="200px" src="{{asset('img/maryam.jpeg')}}" class="img-fluid" alt="">
+                            <div class="social">
+{{--                                <a href=""><i class="icofont-twitter"></i></a>--}}
+{{--                                <a href=""><i class="icofont-facebook"></i></a>--}}
+{{--                                <a href=""><i class="icofont-instagram"></i></a>--}}
+{{--                                <a href=""><i class="icofont-linkedin"></i></a>--}}
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>2016-CS-157</h4>
+                            <span>Maryam Nawaz</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member">
+                        <div class="member-img">
+                            <img width="200px" src="{{asset('img/hafsa.jpeg')}}" class="img-fluid" alt="">
 {{--                            <div class="social">--}}
 {{--                                <a href=""><i class="icofont-twitter"></i></a>--}}
 {{--                                <a href=""><i class="icofont-facebook"></i></a>--}}
@@ -554,53 +590,17 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img width="200px" src="{{asset('img/b.jpg')}}" class="img-fluid" alt="">
-                            <div class="social">
+                            <img width="200px" src="{{asset('img/maheen.jpeg')}}" class="img-fluid" alt="">
+{{--                            <div class="social">--}}
 {{--                                <a href=""><i class="icofont-twitter"></i></a>--}}
 {{--                                <a href=""><i class="icofont-facebook"></i></a>--}}
 {{--                                <a href=""><i class="icofont-instagram"></i></a>--}}
 {{--                                <a href=""><i class="icofont-linkedin"></i></a>--}}
-                            </div>
+{{--                            </div>--}}
                         </div>
                         <div class="member-info">
                             <h4>2016-CS-276</h4>
                             <span>Maheen Alia</span>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member">
-                        <div class="member-img">
-                            <img width="200px" src="{{asset('img/c.jpg')}}" class="img-fluid" alt="">
-{{--                            <div class="social">--}}
-{{--                                <a href=""><i class="icofont-twitter"></i></a>--}}
-{{--                                <a href=""><i class="icofont-facebook"></i></a>--}}
-{{--                                <a href=""><i class="icofont-instagram"></i></a>--}}
-{{--                                <a href=""><i class="icofont-linkedin"></i></a>--}}
-{{--                            </div>--}}
-                        </div>
-                        <div class="member-info">
-                            <h4>2016-CS-X</h4>
-                            <span>Group Member 3</span>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member">
-                        <div class="member-img">
-                            <img width="200px" src="{{asset('img/d.jpg')}}" class="img-fluid" alt="">
-{{--                            <div class="social">--}}
-{{--                                <a href=""><i class="icofont-twitter"></i></a>--}}
-{{--                                <a href=""><i class="icofont-facebook"></i></a>--}}
-{{--                                <a href=""><i class="icofont-instagram"></i></a>--}}
-{{--                                <a href=""><i class="icofont-linkedin"></i></a>--}}
-{{--                            </div>--}}
-                        </div>
-                        <div class="member-info">
-                            <h4>2016-CS-Y</h4>
-                            <span>Group Member 4</span>
                         </div>
                     </div>
                 </div>
